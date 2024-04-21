@@ -1,4 +1,5 @@
-for i in range  10:
+for i in range  (10):
 
-    print(f"numero /n{i}")
+    print(f"numero /n{i+1}")
     
+

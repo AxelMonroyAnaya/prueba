@@ -1,4 +1,4 @@
-for i in range  10:
+for i in range  30:
 
     print(f"numero /n{i}")
     
